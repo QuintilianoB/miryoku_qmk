@@ -7,6 +7,8 @@
 
 #include "custom_config.h"
 
+#define SPLIT_USB_DETECT
+
 // default but used in macros
 #undef TAPPING_TERM
 #define TAPPING_TERM 200
